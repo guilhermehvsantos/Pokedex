@@ -122,7 +122,7 @@ function App() {
             <input
               type="text"
               className="w-full px-2 border-2 border-gray-400 rounded-md text-sm"
-              onChange={(e) => setInput(e.target.value)}
+              onChange={(e) => setInput(e.target.value.toLowerCase())}
             />
           </form>
         </CardFooter>
