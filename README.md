@@ -8,7 +8,7 @@ Aplicação web de uma Pokedex, pequeno projeto pessoal desenvolvido do total ze
 
 Aqui está o link da aplicação no github para teste.
 
-https://guilhermehvsantos.github.io/pokedex/
+https://guilhermehvsantos.github.io/Pokedex/
 ## Screenshots
 
  1 |  2
